@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently Upgrading skills in **Data Analytics**
 
-- 💬 Skills **SQL, PostgreSQL, Power BI, Advance Excel, Google Ads, Wordpress**
+- 💬 Skills: **SQL, PostgreSQL, Power BI, Advance Excel, Google Ads, Wordpress**
 
 - 📫 How to reach me **anuragnath28@gmail.com**
 
