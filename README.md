@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-nath&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-nath" /> </p>
 
-- 🌱 Currently serving as a Clerk since 01 Sep 2023 in Ministry of Defence (Indian Army) for the past year. Before this, I accumulated 1.8 years of experience as an Administrative Assistant and gained hands-on expertise as a Aircraft Technician at Ligare Aviation in New Delhi for 6 months.
+- 🌱 Currently serving as a **Clerk** since 01 Sep 2023 in Ministry of Defence (Indian Army) for the past year. Before this, I accumulated 1.8 years of experience as an **Administrative Assistant** and gained hands-on expertise as a Aircraft Technician at Ligare Aviation in New Delhi for 6 months.
 
-- I am a quick learner with a growing interest in the field of Data Analysis. I am dedicated to building the knowledge and skills required to thrive in this rapidly evolving domain, with a strong focus on securing opportunities that foster professional growth and development.
+- I am a quick learner with a growing interest in the field of **Data Analysis**. I am dedicated to building the knowledge and skills required to thrive in this rapidly evolving domain, with a strong focus on securing opportunities that foster professional growth and development.
 
-- 💬 Skills: **SQL, PostgreSQL, Power BI, Advance Excel, Google Ads, Wordpress**
+- 💬 Skills: **SQL - PostgreSQL, Power BI, Advance Excel, Google Ads, Wordpress, Graphics Design**
 
 - 📫 How to reach me **anuragnath28@gmail.com**
 
